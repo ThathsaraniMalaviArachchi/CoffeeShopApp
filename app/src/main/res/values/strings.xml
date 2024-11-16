@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab test 02</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="next">Next</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+</resources>
